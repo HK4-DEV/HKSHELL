@@ -1,3 +1,9 @@
+import os
+try:
+    os.system("clear")
+except:
+    pass
+
 print("""
         m    m m    m  mmmm  m    m mmmmmm m      m     
         #    # #  m"  #"   " #    # #      #      #     
