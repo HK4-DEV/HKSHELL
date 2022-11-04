@@ -1,6 +1,6 @@
 # HKSHELL
 
-HKSHELL est un généateur de reverse-shell de plusieur language différent  
+HKSHELL est un généateur de reverse-shell de plusieurs language différent  
 
 ### Pré-requis
 
