@@ -4,16 +4,16 @@ HKSHELL est un généateur de reverse-shell de plusieur language différent
 
 ### Pré-requis
 
-Ce qu'il est requis pour hkshell
+Ce qu'il est requis pour HKSHELL
 
 - Python3
 
 ### Installation
 
-Les étapes pour installer hkshell
+Les étapes pour installer HKSHELL
 
 
-_exemple_: Executez la commande ``git clone https://github.com/HK4-DEV/HKSHELL/``
+Executez la commande ``git clone https://github.com/HK4-DEV/HKSHELL/``
 
 ## Démarrage
 
