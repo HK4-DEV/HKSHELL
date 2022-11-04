@@ -20,4 +20,4 @@ Executez la commande ``git clone https://github.com/HK4-DEV/HKSHELL/``
 ``python3 hkshell.py``
 
 ## Auteurs
-* **ＨＫ４** _alias_ [@outout14](https://gist.github.com/HK4-DEV)
+* **ＨＫ４** _alias_ [@hk4](https://gist.github.com/HK4-DEV)
